@@ -1,6 +1,6 @@
 # SFER_code
 This is the code for paper "Unsupervised Heterogeneous Domain Adaptation via Shared Fuzzy Equivalence Relations", published in IEEE TFS.
-Please NOTE: If you do not use windows system, you need to re-compile your own svmtrain and svmpredict file.
+Please NOTE: If you do not use windows system, you need to re-compile your own svmtrain and svmpredict file using LibSVM package (available in https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
 
 We transfer knowledge from a heterogeneous source domain to an unlabeled target domain.
 
