@@ -2,6 +2,8 @@
 This is the code for paper "Unsupervised Heterogeneous Domain Adaptation via Shared Fuzzy Equivalence Relations", published in IEEE TFS.
 Please NOTE: If you do not use windows system, you need to re-compile your own svmtrain and svmpredict file.
 
+We transfer knowledge from a heterogeneous source domain to an unlabeled target domain.
+
 If you do not want to repalce with your datasets, just run
 
 main;
