@@ -12,6 +12,7 @@ clear
 
 load('german data.mat')
 load('Cancer_dataset.mat')
+load('Australian.mat')
 rng(1)
 is_auto_select_alpha = 1; % select alpha automatically (1) or manually (0)
 AA = [0.1 0.3 0.5 0.7 0.9]; % cadidate alpha
